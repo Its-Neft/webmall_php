@@ -41,7 +41,7 @@ $_config['site_info']=[
 	"vkey"=>"eset5ag.nsy-g6ky5.mp",
 	// Since this project has repo in github why not use github as img cdn, this is temporary :D
 	// or put "" or null if you want to load image locally but you need to manually edit the css file.
-	"cdn"=>"https://raw.githubusercontent.com/Komiks8457/iSROWebApps/main/webmall/webmall_php/",
+	"cdn"=>null,
 	// The directory where you put the webmall, leave / if its in root dir
 	// if you intend to use sub-directories you should start it with / and ends with /
 	// and also edit web.config url="/index.php?req={R:1}" to your subdirectory url="/subdir/index.php?req={R:1}"
